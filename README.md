@@ -1,4 +1,4 @@
-# TG-videoCompress
+O# TG-videoCompress
 
 A Telegram Bot To Encode Videos Using FFMPEG
 
@@ -11,7 +11,7 @@ A Telegram Bot To Encode Videos Using FFMPEG
 
 `Heroku`
 
-[![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Anshusharma75/TG-videoCompress)
+[![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Hosseinsavior/TG-video)
 
 `Railway` 
 
