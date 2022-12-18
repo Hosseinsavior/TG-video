@@ -26,7 +26,7 @@ from html_telegraph_poster import TelegraphPoster
 from telethon import Button, TelegramClient, errors, events, functions, types
 from telethon.sessions import StringSession
 from telethon.utils import pack_bot_file_id
-from .config import *
+from .config import config
 LOG_FILE_NAME = "TG-videoCompress@Log.txt"
 
 
