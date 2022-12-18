@@ -4,7 +4,7 @@
 
 
 from . import *
-from .config import *
+from .config import config
 from .worker import *
 from asyncio import create_subprocess_shell as asyncrunapp
 from asyncio.subprocess import PIPE as asyncPIPE
