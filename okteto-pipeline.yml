@@ -1,8 +1,5 @@
+icon: https://github.com/okteto/node-getting-started/raw/master/icon.png
 deploy:
-  - kubectl apply -f pipeline/kubernetes/.
+  - kubectl apply -f k8s.yml
 devs:
-  - code_base/web-ui/okteto.yml
-  - code_base/micro-services/booking-service/okteto.yml
-  - code_base/micro-services/desk-service/okteto.yml
-  - code_base/micro-services/employee-service/okteto.yml
-  - code_base/micro-services/organisation-service/okteto.yml
+  - okteto.yml
